@@ -1,0 +1,36 @@
+,school_name,school_id,num_sitters,average_300,grade,WASICHANA,WAVULANA,JUMLA,region_name,council_name
+42,KILIMANJARO,PS0101024,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Arusha,Arusha
+182,HIGH CHALLENGE,PS0102076,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Arusha,Arusha CC
+877,MAKTABA,PS0202058,,,,"[23, 62, 3, 0, 0]","[10, 60, 10, 1, 0]","[33, 122, 13, 1, 0]",Dar es salaam,Dar es salaam CC
+909,MTENDENI,PS0202026,,,,"[24, 36, 3, 0, 0]","[16, 41, 9, 0, 0]","[40, 77, 12, 0, 0]",Dar es salaam,Dar es salaam CC
+930,OLYMPIO,PS0202028,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Dar es salaam,Dar es salaam CC
+1084,GREEN ACRES,PS0203129,,,,"[21, 8, 1, 0, 0]","[31, 10, 1, 0, 0]","[52, 18, 2, 0, 0]",Dar es salaam,Kinondoni MC
+1208,AL-HIKMA,PS0206090,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Dar es salaam,Temeke MC
+1238,GREAT VISION,PS0206099,,,,"[13, 5, 1, 0, 0]","[8, 5, 5, 0, 0]","[21, 10, 6, 0, 0]",Dar es salaam,Temeke MC
+1242,JB,PS0206092,,,,"[0, 0, 0, 0, 0]","[0, 0, 1, 0, 0]","[0, 0, 1, 0, 0]",Dar es salaam,Temeke MC
+1245,JOYLAND,PS0206131,,,,"[38, 2, 0, 0, 0]","[38, 2, 0, 0, 0]","[76, 4, 0, 0, 0]",Dar es salaam,Temeke MC
+1325,TEMEKE ISLAMIC,PS0206145,,,,"[0, 5, 15, 1, 0]","[0, 4, 20, 1, 0]","[0, 9, 35, 2, 0]",Dar es salaam,Temeke MC
+1364,CASTLE HILLS,PS0204150,,,,"[30, 0, 0, 0, 0]","[23, 0, 0, 0, 0]","[53, 0, 0, 0, 0]",Dar es salaam,Ubungo MC
+1430,MALAIKA,PS0204096,,,,"[0, 5, 6, 1, 0]","[0, 3, 4, 2, 0]","[0, 8, 10, 3, 0]",Dar es salaam,Ubungo MC
+1482,ST. ANNE MARIE,PS0204115,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Dar es salaam,Ubungo MC
+2884,ST SEVERINE,PS0501076,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Kagera,Biharamulo
+3034,RWEIKIZA,PS0502139,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Kagera,Bukoba
+3056,JAMIA,PS0503023,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Kagera,Bukoba MC
+3059,KARUME,PS0503033,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Kagera,Bukoba MC
+3135,KAZOBA,PS0504049,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Kagera,Karagwe
+6383,LEADERS,PS0906129,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mara,Rorya
+6654,MOREGAS,PS0905050,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mara,Tarime
+9462,BUSARA,PS1303010,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Magu
+9520,MUGINI,PS1303065,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Magu
+9790,MUSABE,PS1304104,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Mwanza CC
+9815,OLELE,PS1304116,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Mwanza CC
+9838,WINNERS,PS1304101,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Mwanza CC
+9943,TUMAINI,PS1306183,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Sengerema
+10066,PEACELAND,PS1307121,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Ukerewe
+10070,UKEREWE,PS1307125,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Mwanza,Ukerewe
+10208,MUSTLEAD,PS1408088,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Pwani,Chalinze
+11788,MAJALA,PS1602083,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Ruvuma,Tunduru
+15747,KADAMA,PS2402048,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Geita,Chato
+16295,MWAMKULU,PS2502018,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Katavi,Mpanda MC
+16778,EBENEZER,PS2604092,,,,"[0, 0, 1, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 1, 0, 0]",Njombe,Njombe TC
+17908,ELISABENE,PS3105003,,,,"[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]","[0, 0, 0, 0, 0]",Songwe,Tunduma TC

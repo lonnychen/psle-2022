@@ -76,8 +76,8 @@ Exploration points:
 ```python
 #SPOT-CHECK CODE - handy, keep around!
 #df_n.shape
-#df_n.head(()
-#df_n.dtypes
+#df_n.info()
+#df_n.head()
 #df_n.describe(include='all')
 ```
 
